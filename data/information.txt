@@ -2,8 +2,8 @@
   "information": [
     {
       "header": "Information Security Governance",
-      "title": "Designing",
-      "infoBody": "IT security governance is the system by which an organization directs and controls IT security (adapted from ISO 38500). IT security governance should not be confused with IT security management. IT security management is concerned with making decisions to mitigate risks; governance determines who is authorised to make decisions. Governance specifies the accountability framework and provides oversight to ensure that risks are adequately mitigated, while management ensures that controls are implemented to mitigate risks.\n ",
+      "title": "Desiging",
+      "infoBody": "IT security governance is the system by which an organization directs and controls IT security (adapted from ISO 38500). IT security governance should not be confused with IT security management. IT security management is concerned with making decisions to mitigate risks; governance determines who is authorized to make decisions. Governance specifies the accountability framework and provides oversight to ensure that risks are adequately mitigated, while management ensures that controls are implemented to mitigate risks.\n ",
       "sources": [
         "“Information Security Governance,” www.educause.edu. https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide/toolkits/information-security-governance"
       ]
@@ -12,54 +12,54 @@
       "header": "Information Security Governance",
       "title": "Gaining Support",
       "infoBody": "",
-      "sources": ""
+      "sources": [""]
     },
     {
       "header": "Information Security Governance",
       "title": "Implementing",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Information Security Risk Management",
       "title": "Risk Identifying",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "InformationSecurity Risk Management",
       "title": "Risk Analysis",
       "infoBody": "blah",
-      "sources": "blah"
+      "sources": ["blah"]
     },
     {
       "header": "Incident Management",
       "title": "Planning",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Incident Management",
       "title": "Readiness",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Incident Management",
       "title": "Response",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Modern Exploit Techniques",
       "title": "IoT Exploits",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
-      "header": "Moden Exploit Techniques",
+      "header": "Moden Exploit Tecniques",
       "title": "SQL Injection",
-      "infoBody": "An SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application's content or behaviour. \nIn some situations, an attacker can escalate a SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.\n**SQL Injection Examples:**\nThere are a wide variety of SQL injection vulnerabilities, attacks, and techniques, which arise in different situations. Some common SQL injection examples include:\n - Retrieving hidden data, where you can modify a SQL query to return additional results.\n  - Subverting application logic, where you can change a query to interfere with the application's logic.\n  - UNION attacks, where you can retrieve data from different database tables.\n  - Examining the database, where you can extract information about the version and structure of the database.\n  - Blind SQL injection, where the results of a query you control are not returned in the application's responses.",
+      "infoBody": "An SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application's content or behavior. \nIn some situations, an attacker can escalate a SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.\n**SQL Injection Examples:**\nThere are a wide variety of SQL injection vulnerabilities, attacks, and techniques, which arise in different situations. Some common SQL injection examples include:\n - Retrieving hidden data, where you can modify a SQL query to return additional results.\n  - Subverting application logic, where you can change a query to interfere with the application's logic.\n  - UNION attacks, where you can retrieve data from different database tables.\n  - Examining the database, where you can extract information about the version and structure of the database.\n  - Blind SQL injection, where the results of a query you control are not returned in the application's responses.",
       "sources": [
         "“What is SQL Injection? Tutorial & Examples,” Portswigger.net. [Online]. Available: https://portswigger.net/web-security/sql-injection. [Accessed: 19-Apr-2023]."
       ]
@@ -68,37 +68,37 @@
       "header": "Moden Exploit Techniques",
       "title": "Wireless Networks",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Modern Exploit Techniques",
       "title": "Evading IDS, Firewalls and Honeypots",
       "infoBody": "bb",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
       "title": "Trojans, Viruses and Worms",
       "infoBody": "b",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
-      "title": "Analysing Malware",
+      "title": "Aanalysing Malware",
       "infoBody": "b",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
       "title": "Identification",
       "infoBody": "bb",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Cyber Risk and The Law",
       "title": "UK Legislation",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     }
   ]
 }
