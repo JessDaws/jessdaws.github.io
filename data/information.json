@@ -12,49 +12,49 @@
       "header": "Information Security Governance",
       "title": "Gaining Support",
       "infoBody": "",
-      "sources": ""
+      "sources": [""]
     },
     {
       "header": "Information Security Governance",
       "title": "Implementing",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Information Security Risk Management",
       "title": "Risk Identifying",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "InformationSecurity Risk Management",
       "title": "Risk Analysis",
       "infoBody": "blah",
-      "sources": "blah"
+      "sources": ["blah"]
     },
     {
       "header": "Incident Management",
       "title": "Planning",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Incident Management",
       "title": "Readiness",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Incident Management",
       "title": "Response",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Modern Exploit Techniques",
       "title": "IoT Exploits",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Moden Exploit Tecniques",
@@ -68,37 +68,37 @@
       "header": "Moden Exploit Techniques",
       "title": "Wireless Networks",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     },
     {
       "header": "Modern Exploit Techniques",
       "title": "Evading IDS, Firewalls and Honeypots",
       "infoBody": "bb",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
       "title": "Trojans, Viruses and Worms",
       "infoBody": "b",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
       "title": "Aanalysing Malware",
       "infoBody": "b",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Malware Analysis & Identification",
       "title": "Identification",
       "infoBody": "bb",
-      "sources": "bb"
+      "sources": ["bb"]
     },
     {
       "header": "Cyber Risk and The Law",
       "title": "UK Legislation",
       "infoBody": "b",
-      "sources": "b"
+      "sources": ["b"]
     }
   ]
 }
