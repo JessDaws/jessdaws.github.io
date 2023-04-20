@@ -35,8 +35,8 @@
     {
       "header": "Incident Management",
       "title": "Planning",
-      "infoBody": "b",
-      "sources": ["b"]
+      "infoBody": "A sufficient incident response plan offers a course of action for all significant incidents. Some incidents lead to massive network or data breaches that can impact your organization for days or even months. When a significant disruption occurs, your organization needs a thorough, detailed incident response plan to help IT staff stop, contain, and control the incident quickly. For physical disruptors, such as natural disasters and flooding, create a disaster recovery plan.\nAn incident recovery team is the group of people assigned to implement the incident response plan. Generally, these are members of the IT staff who collect, preserve, and analyze incident-related data. Your IT staff may need to work with lawyers and communications experts to make sure that legal obligations are met.\n",
+      "sources": ["Cisco Security Incident Response. 2019"]
     },
     {
       "header": "Incident Management",
